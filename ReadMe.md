@@ -15,6 +15,6 @@ I'm currently pursuing BTech Artificial Intelligence and Machine Learning in Kon
 ---
 [![](https://visitcount.itsvg.in/api?id=ashokkumar2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![My Stats](https://leetcard.jacoblin.cool/karthickeyan_s?theme=dark&font=Gruppo&ext=activity&width=700)
+![My Stats](https://leetcard.jacoblin.cool/ashokkumarr_2004?theme=dark&font=Gruppo&ext=activity&width=700)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
